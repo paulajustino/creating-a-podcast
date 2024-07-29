@@ -2,7 +2,7 @@
 
 > Note: Project developed during the bootcamp "Santander 2024 - Fundamentos de IA para Devs" provided by DIO and Santander.
 
-📕 Click <a href="https://drive.google.com/file/d/1rUpxwh8m92Rz4FB4Z36kU0RXoSGBe23u/view?usp=sharing" title="View PDF now"> here</a> to listen the podcast.
+📕 Click <a href="https://github.com/paulajustino/creating-a-podcast/blob/main/output/desenvolvendo_inclusao-a_jornada_para_uma_tecnologia_acessivel.mp3" title="View PDF now"> here</a> to access the podcast file.
 
 ## 💻 Technologies used in the project:
 
